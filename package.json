@@ -1,0 +1,32 @@
+{
+  "name": "bz-upload-picture-multiple",
+  "version": "2.0.0",
+  "description": "bz-upload-picture-multiple",
+  "main": "src/Bz.vue",
+  "keywords": [
+    "vue",
+    "component",
+    "bigzhu"
+  ],
+  "author": "bigzhu <vermiliondun@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigzhu/bz-upload-picture-multiple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bigzhu/bz-upload-picture-multiple/issues"
+  },
+  "homepage": "https://github.com/bigzhu/bz-upload-picture-multiple#readme",
+  "files": [
+    "src/Bz.vue",
+    "src/assets"
+  ],
+  "scripts": {
+    "dev": "node build/dev-server.js",
+    "test": ""
+  },
+  "dependencies": {
+    "bz-upload-picture": "^2.1.7"
+  },
+  "devDependencies": {}
+}
